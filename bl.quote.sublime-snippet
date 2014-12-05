@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+{quote}
+
+{/quote}
+]]></content>
+<tabTrigger>bl.quote</tabTrigger>
+<!-- <scope>source.css,source.js</scope> -->
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+-
+-
+--
+---
+]]></content>
+<tabTrigger>bl.item</tabTrigger>
+<!-- <scope>source.css,source.js</scope> -->
+</snippet>

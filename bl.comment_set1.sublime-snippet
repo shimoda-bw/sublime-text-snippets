@@ -1,0 +1,32 @@
+<snippet>
+	<content><![CDATA[
+さん、各位
+
+*
+**申し送り、完了報告、
+***
+
+-
+-
+--
+---
+
++
++
++
+
+[[>]]
+
+{quote}
+
+{/quote}
+
+{code}
+
+{/code}
+
+
+]]></content>
+<tabTrigger>bl.comment_set1</tabTrigger>
+<!-- <scope>source.css,source.js</scope> -->
+</snippet>

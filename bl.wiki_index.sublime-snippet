@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+''【目次】=====================================''
+#contents
+''===========================================''
+
+*概要
+]]></content>
+<tabTrigger>bl.txt-work_memo</tabTrigger>
+<!-- <scope>source.css,source.js</scope> -->
+</snippet>

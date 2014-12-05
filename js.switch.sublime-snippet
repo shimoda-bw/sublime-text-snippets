@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+switch ( 変数 ) {
+	case '値1':
+		//処理1;
+		break;
+	case '値2':
+		//処理2;
+		break;
+	default:
+		//処理3;
+}
+});
+]]></content>
+<tabTrigger>js.switch</tabTrigger>
+<!-- <scope>source.js</scope> -->
+</snippet>

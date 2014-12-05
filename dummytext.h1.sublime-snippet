@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+この部分はh1テキストが入り、約○○文字程度の想定をしております。
+]]></content>
+<tabTrigger>dummytext.h1</tabTrigger>
+<!-- <scope>text.html</scope> -->
+</snippet>

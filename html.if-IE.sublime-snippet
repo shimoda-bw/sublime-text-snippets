@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<!--[if IE]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+]]></content>
+<tabTrigger>html.if-IE7under</tabTrigger>
+<!-- <scope>text.html</scope> -->
+</snippet>
